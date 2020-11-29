@@ -1,3 +1,8 @@
+<img 
+     src="https://github.com/Kesterchia/Global-animal-diseases/blob/main/Data/kruger_wildlife__banner.jpg?raw=true" 
+     alt="Drawing" 
+     style="width: 600px;"/>
+     
 # About the dataset:
 
 ## Context
